@@ -1,0 +1,5 @@
+#! /bin/bash
+cd ~/bin
+zenity --text-info --width=800 --height=800\
+       --title="GOBYTEGO HELP" \
+       --filename=help.txt \
