@@ -1,0 +1,22 @@
+UPGRADE SYSTEM = runs the up script,
+					this script updates your repos,
+					then it does a upgrade on your packages,
+					it then does any maintanace like autoremove packages 
+					that are not needed and clears temp files etc.
+					
+HOW OLD IS YOUR SYSTEM = runs the howold script,
+					this script will tell you old old your system is by
+					showing the date of when the root was folder created.
+					
+INTERNET SPEEDTEST = runs the speedtest script,
+					this script will pull the most current speedtest 
+					script from https://github.com/sivel/speedtest-cli
+					and will run it for you.
+					
+CONKY RESTART = runs the conkyrestart.sh script
+					simple script to restart your conky if you use conky
+					that is :)
+					
+HELP = runs this file.					
+
+UPDATE THIS = updates this and the scripts associated with it.
